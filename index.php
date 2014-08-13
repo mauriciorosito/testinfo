@@ -10,7 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <p>Olá Git</p>
+        <p>Olá Git, novamente</p>
+        <p> este é um novo parágrafo</p>
+        <p> outro</p>
         <?php
         // put your code here
         ?>
